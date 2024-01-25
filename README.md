@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Picture Search React App using Unsplash API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is merely a refresher course to update to Modern React done through Udemy.
+
+## Prerequisites
+
+Register as a developer with unsplash for API access. URL: https://unsplash.com
 
 ## Available Scripts
 
